@@ -1,6 +1,6 @@
 # Challenges
 ## Crypto
 
-[Alice](../blob/master/CTF/ECSC_2019/Alice.md)
+[Alice](../Alice.md)
 
-[CryptoLuck](../blob/master/CTF/ECSC_2019/CryptoLuc.md)
+[CryptoLuck](../CryptoLuck.md)
