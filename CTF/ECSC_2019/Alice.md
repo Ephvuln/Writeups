@@ -37,7 +37,7 @@ adc3d4612bd6215627a94b58579ba789003a6faa97566c257d56fdc9a2603290
 3563504f92d40f67f1f8c7a4f57437274b2b1690ad0570b11c9b3f80e6cb5ca7
 ```
 # Crack
-# Method: cryptanalysis
+## Method: cryptanalysis
 
 We break the algorithm in 2 parts: one that solves the first half and the other that solves the
 second. We keep in mind that the attacker found the hash with the minimum number of attempts
