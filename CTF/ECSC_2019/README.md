@@ -1,6 +1,6 @@
 # Challenges
 ## Crypto
 
-[Alice](../Alice.md)
+[Alice](./Alice.md)
 
-[CryptoLuck](../CryptoLuck.md)
+[CryptoLuck](./CryptoLuck.md)
